@@ -1,5 +1,7 @@
 # Add Product to Cart
-> Sample project to add products to our product cart from product collection. 
+> Sample project to add products to our product cart from product collection.
+
+![Demo App](/frontend/public/frontpage_readme.png)
 ## How To Run
 Create the file `backend/.env` with Port:
 ```
