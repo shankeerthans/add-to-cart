@@ -1,5 +1,4 @@
-
-const products = [
+export const products = [
     {
       "id": 1,
       "name": "Laptop",
@@ -12,4 +11,3 @@ const products = [
     }
    ]
 
-export {products}
